@@ -19,6 +19,10 @@ const App = () => {
     {
       label: "Utenti",
       link: "/users"
+    },
+    {
+      label: "Schedule",
+      link: "/schedule"
     }
   ];
 
