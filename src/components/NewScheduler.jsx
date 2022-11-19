@@ -4,6 +4,7 @@ import { Button } from "@mui/material";
 
 export default function NewScheduler() {
   return (
+    
     <Scheduler
       events={EVENTS}
       view="week"
@@ -41,5 +42,6 @@ export default function NewScheduler() {
         },
       }}
     />
+
   );
 }
